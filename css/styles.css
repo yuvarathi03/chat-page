@@ -1,0 +1,6 @@
+.bg-container {
+    background-image: url('https://ik.imagekit.io/pqawu7zva/chatbg.png?');
+    width: 350px;
+    height: 500px;
+    background-size: cover;
+ }
